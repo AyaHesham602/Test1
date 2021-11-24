@@ -4,4 +4,5 @@ int main(){
 printf("Hello Git");
 return 0;
 printf("End");
+printf("Thank you ");
 }
